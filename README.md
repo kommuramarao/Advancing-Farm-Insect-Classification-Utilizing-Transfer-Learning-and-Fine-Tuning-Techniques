@@ -1,0 +1,2 @@
+# Advancing-Farm-Insect-Classification-Utilizing-Transfer-Learning-and-Fine-Tuning-Techniques
+This project uses a hybrid deep learning model combining MobileNetV3 and InceptionV3 for accurate farm insect classification. Leveraging transfer learning, it handles class imbalance, ensures high accuracy, and offers visualization tools. It supports sustainable agriculture by automating pest detection and improving crop management efficiency.
